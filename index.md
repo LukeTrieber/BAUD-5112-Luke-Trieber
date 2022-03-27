@@ -1,3 +1,9 @@
+---
+title: New Title
+description: something something something
+---
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LukeTrieber/BAUD-5112-Luke-Trieber/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
